@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.backgroundcolour1{
+    background-color: white;
+
+}
+.cardimagesize{
+    height: 301px;
+    width: 290%;
+    border-radius: 16px
+}
+.cardallview{
+    color: rgb(136, 136, 39);
+    font-family: 'roboto';
+    font-weight: 500;
+    font-size: 14px;
+}
+.iteam-card-radius{
+    border-radius: 16px;
+}
+cardimagesize1{
+    height: 290px;
+    width: 520px;
+    border-radius: 16px
+}
